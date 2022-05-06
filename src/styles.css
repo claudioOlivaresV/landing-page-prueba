@@ -1,1 +1,35 @@
 /* You can add global styles to this file, and also import other style files */
+.btn-primary {
+    background-color: #fc6d26 !important;
+    border-color: #fc6d26 !important;
+}
+
+@keyframes fadeIn {
+    0% {opacity:0;}
+    30% {opacity: 0.5;}
+    100% {opacity:1;}
+  }
+  
+  @-moz-keyframes fadeIn {
+    0% {opacity:0;}
+    30% {opacity: 0.5;}
+    100% {opacity:1;}
+  }
+  
+  @-webkit-keyframes fadeIn {
+    0% {opacity:0;}
+    30% {opacity: 0.5;}
+    100% {opacity:1;}
+  }
+  
+  @-o-keyframes fadeIn {
+    0% {opacity:0;}
+    30% {opacity: 0.5;}
+    100% {opacity:1;}
+  }
+  
+  @-ms-keyframes fadeIn {
+    0% {opacity:0;}
+    30% {opacity: 0.5;}
+    100% {opacity:1;}
+  }
